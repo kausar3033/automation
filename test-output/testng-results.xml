@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-02T03:58:40 BDT" name="Default suite" finished-at="2021-11-02T03:59:11 BDT" duration-ms="30845">
+    <groups>
+    </groups>
+    <test started-at="2021-11-02T03:58:40 BDT" name="Default test" finished-at="2021-11-02T03:59:11 BDT" duration-ms="30845">
+      <class name="bongobd.com.Automation.main">
+        <test-method is-config="true" signature="Driverconfig()[pri:0, instance:bongobd.com.Automation.main@60f00693]" started-at="2021-11-02T03:58:38 BDT" name="Driverconfig" finished-at="2021-11-02T03:58:40 BDT" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driverconfig -->
+        <test-method signature="justClick()[pri:0, instance:bongobd.com.Automation.main@60f00693]" started-at="2021-11-02T03:58:40 BDT" name="justClick" finished-at="2021-11-02T03:59:11 BDT" duration-ms="30807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justClick -->
+        <test-method is-config="true" signature="close()[pri:0, instance:bongobd.com.Automation.main@60f00693]" started-at="2021-11-02T03:59:11 BDT" name="close" finished-at="2021-11-02T03:59:15 BDT" duration-ms="4086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- bongobd.com.Automation.main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
